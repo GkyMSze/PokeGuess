@@ -1,1 +1,1 @@
-# PokeGuesser
+This program is a spin-off of the New York Times hit game Worldle. In this version, players will have ten guesses to correctly identify a randomly generated Pokemon from one of the iconic Nintendo games. Users will have ten opportunities to guess the correct Pokemon by correctly analyzing and assembling the data given to them.
