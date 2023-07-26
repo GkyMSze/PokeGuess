@@ -1,1 +1,1 @@
-#None
+This program is a spin-off of the New York Times hit game Wordle. In this game players will have ten opportunities to analyze and assemble information and correctly identify a randomly generated Pokemon from one of the iconic games in this Nintendo series. I hope you enjoy this game!
